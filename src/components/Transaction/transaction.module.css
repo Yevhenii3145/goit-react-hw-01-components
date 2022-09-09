@@ -1,0 +1,19 @@
+.transaction-history {
+    background-color: rgb(197, 135, 255);
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.transaction-history >thead {
+    background-color: rgb(60, 60, 252);
+    outline: 2px solid red;
+}
+.transaction-history >thead th {
+    color: rgb(234, 8, 8);
+}
+.transaction-history >tbody td {
+    outline: 2px solid red;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
